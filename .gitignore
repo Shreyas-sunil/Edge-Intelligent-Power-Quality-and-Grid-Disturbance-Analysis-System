@@ -1,0 +1,8 @@
+build/
+build-host/
+build-pico/
+data/
+runs/
+__pycache__/
+*.pyc
+pq_config.bin

@@ -1,0 +1,4 @@
+numpy>=1.24
+tensorflow>=2.15      # training + TFLite int8 conversion (CPU build is enough)
+pyserial>=3.5         # tools/
+matplotlib>=3.7       # tools/live_plot.py
